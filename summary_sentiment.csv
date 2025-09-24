@@ -1,0 +1,6 @@
+classification,Total PnL,Average PnL,Number of Trades,Std Dev of PnL
+Extreme Fear,739110.25,71.03,10406,1628.41
+Extreme Greed,2715171.31,130.21,20853,1058.13
+Fear,3357155.44,112.63,29808,1344.78
+Greed,2150129.27,85.4,25176,1576.39
+Neutral,1292920.68,71.2,18159,743.21
